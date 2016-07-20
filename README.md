@@ -25,9 +25,23 @@ python example.py -a ptc -u user -p pass -l "37.327683, -121.884674" -st 10
 #Going Home
 python example.py -a ptc -u user -p pass  -l "37.362900, -121.910960" -st 10
 
-#Selma Olinder Park
+# San Jose Parks
+#Selma Oliver Park - Bulbasaur, Pinsir
 python example.py -a ptc -u user -p pass -l "37.333824, -121.865705" -st 10
 
+#Oak Hill Cemetery - Geodude
+python example.py -a ptc -u user -p pass -l " 37.297679, -121.859502" -st 10
+
+#Hellyer Park - Pikachu, Charmander, Venonant, Diglet, Rhydon, Growlithe, Jigglypuff
+python example.py -a ptc -u user -p pass -l "37.287164, -121.813668" -st 10
+
+#Almaden Lake - Cubone, Eevee, Bulbasaur, Horsea, Sandshrew, Jigglypuff, Porygon
+python example.py -a ptc-u user -p pass -l "37.241807, -121.873997" -st 10
+
+#Overfelt Park - Machoke, Vulpix, Electrabuzz
+python example.py -a ptc -u user -p pass -l "37.363033, -121.854721" -st 10
+
+#Places of Note
 #Dratini Nest in Fremont 
 python example.py -a ptc -u user -p pass  -l "37.56721, -122.01187" -st 10
 
@@ -36,9 +50,3 @@ python example.py -a ptc -u user -p pass -l "37.38292, -122.02694" -st 10
 
 #Gastly sighted in Sunnyvale
 python example.py -a ptc -u user -p pass -l "37.40905, -122.01793" -st 10
-
-#Charmander Nest 
-python example.py -a ptc -u user -p pass  -l "37.276285, -121.803162" -st 10
-
-#Overfelt Park - Machoke, Vulpiz, Electrabuzz
-python example.py -a ptc -u user -p pass -l "37.363033, -121.854721" -st 10
