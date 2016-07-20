@@ -15,3 +15,30 @@ Building off [Mila432](https://github.com/Mila432/Pokemon_Go_API)'s PokemonGo AP
 
 ---
 For instructions, please refer to [the wiki](https://github.com/AHAAAAAAA/PokemonGo-Map/wiki)
+---
+#Work
+python example.py -a ptc -u user -p pass -l "37.369706, -121.922504" -st 10
+
+#Home
+python example.py -a ptc -u user -p pass -l "37.327683, -121.884674" -st 10
+
+#Going Home
+python example.py -a ptc -u user -p pass  -l "37.362900, -121.910960" -st 10
+
+#Selma Olinder Park
+python example.py -a ptc -u user -p pass -l "37.333824, -121.865705" -st 10
+
+#Dratini Nest in Fremont 
+python example.py -a ptc -u user -p pass  -l "37.56721, -122.01187" -st 10
+
+#Porygon sighted in Sunnyvale
+python example.py -a ptc -u user -p pass -l "37.38292, -122.02694" -st 10
+
+#Gastly sighted in Sunnyvale
+python example.py -a ptc -u user -p pass -l "37.40905, -122.01793" -st 10
+
+#Charmander Nest 
+python example.py -a ptc -u user -p pass  -l "37.276285, -121.803162" -st 10
+
+#Overfelt Park - Machoke, Vulpiz, Electrabuzz
+python example.py -a ptc -u user -p pass -l "37.363033, -121.854721" -st 10
